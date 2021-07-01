@@ -1,10 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
+- 👋 I’m @dimitos. My name is Dmitriy.
+- 👀 I am interested in front-end and back-end development
+- 🌱 I’m currently learning JS and PHP
+- 🔭 I already have my first training and work projects *[domdev.ru](http://domdev.ru "projects")*
+- 👯 I’m looking for a good job
+- 📫 You can contact me in Telegram: *[t.me/Dimitos](https://t.me/Dimitos "Telegram")*  
+# 
+<br>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitos&count_private=true&show_icons=true&theme=algolia&layout=compact&hide=issues,contribs)
+](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitos&theme=algolia&layout=compact)
+# 
 <!--
-**dimitos/dimitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**dimitos/Dimitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💞️ ...
+- ✨ ...
 -->
