@@ -7,10 +7,11 @@
 - 📫 Here you can see *[my CV](https://dimitos.github.io/rsschool-cv "My CV")*
 - 📫 Telegram: *[t.me/Dimitos](https://t.me/Dimitos "Telegram")* 
 # 
-<br>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitos&count_private=true&show_icons=true&theme=algolia&layout=compact&hide=issues,contribs)
-](https://github.com/anuraghazra/github-readme-stats)
+<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=dimitos&card&colormode=dark_mode" />  
+ 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitos&count_private=true&show_icons=true&theme=algolia&layout=compact&hide=issues,contribs)
+](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitos&theme=algolia&layout=compact)
 # 
