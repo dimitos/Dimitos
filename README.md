@@ -8,7 +8,7 @@
 - 📫 Telegram: *[t.me/Dimitos](https://t.me/Dimitos "Telegram")* 
 # 
 
-<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=dimitos&card&colormode=dark_mode" />  
+[<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=dimitos&card&colormode=dark_mode" />](https://www.codewars.com/users/dimitos "Codewars profile")
  
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitos&count_private=true&show_icons=true&theme=algolia&layout=compact&hide=issues,contribs)
 ](https://github.com/anuraghazra/github-readme-stats) -->
