@@ -3,7 +3,6 @@
 - 👋 I’m @dimitos. My name is Dmitriy.
 - 👀 I am interested in front-end and back-end development
 - 🌱 I’m currently learning JS and PHP 
-- 👯 I’m looking for a good job
 - 📫 Here you can see *[my CV](https://dimitos.github.io/rsschool-cv "My CV")*
 - 📫 Telegram: *[t.me/Dimitos](https://t.me/Dimitos "Telegram")* 
 # 
